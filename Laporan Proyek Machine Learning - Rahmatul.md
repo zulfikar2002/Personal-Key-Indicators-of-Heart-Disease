@@ -1,4 +1,4 @@
-# Laporan Proyek Machine Learning - Rahmatul
+# Laporan Proyek Machine Learning
 
 
 Laporan Proyek Machine Learning - Zulfikar Zahir H
